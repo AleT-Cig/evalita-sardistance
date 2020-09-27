@@ -134,6 +134,8 @@ Once you have run your system over the test data that you have downloaded, you w
 
 4.  Please note that the test set consists of \(1,110\) tweets, so you can double check that your files are complete by verifying that you have the correct number of lines.
 
+5. Please also remember to compile the following google form: https://forms.gle/kqM9mR8D3jSZzFCz7 -- We kindly ask you to fill in the questionnaire about the system you submitted to our task. With this information, we hope to produce a more complete and interesting final report, and to highlight the prominent features of all the systems.
+
 Submission format
 =================
 
